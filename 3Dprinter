@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>3Dプリンター</title>
+  </head>
+  <body>
+    <h1>3Dプリンター</h1>
+<p>データの置き方がわからない！</p>
+<img src="./assets/img/3d/3d_01.jpg" alt="">
+<img src="./assets/img/3d/3d_02.jpg" alt="">
+  </body>
+</html>
